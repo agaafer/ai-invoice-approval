@@ -1,0 +1,4 @@
+   unit_price_min  unit_price_max  ...  subacc_invoice_count  subacc_actual_count
+0          14.432          14.432  ...                     2                    1
+
+[1 rows x 25 columns]
